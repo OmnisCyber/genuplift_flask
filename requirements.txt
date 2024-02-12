@@ -12,7 +12,7 @@ gunicorn==20.1.0
 flask-restx==0.5.1
 python-dotenv==0.19.2
 Flask-Minify==0.37
-PyPDF2==1.26.0  # Use the latest version or the version you require
+PyPDF2
 
 
 # flask_mysqldb
