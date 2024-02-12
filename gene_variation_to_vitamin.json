@@ -1,0 +1,1281 @@
+{
+  "COMT": {
+    "blurb": "The COMT gene, or catechol-O-methyltransferase gene, plays a crucial role in the breakdown of certain neurotransmitters, like dopamine and norepinephrine, in the brain. It's responsible for producing the COMT enzyme, which helps regulate the levels of these neurotransmitters. Variations in the COMT gene can influence an individual's cognitive function, stress response, and susceptibility to certain mental health conditions.",
+    "Variations": {
+      "V158M": {
+        "blurb": "The COMT V158M variation is a genetic polymorphism in the catechol-O-methyltransferase (COMT) gene. This variation results in an amino acid change from valine to methionine at position 158 of the COMT enzyme, which is involved in the breakdown of catecholamines, such as dopamine and norepinephrine.\n\nThe significance of this variation lies in its impact on COMT enzyme activity. Individuals with the Met allele (the variant form) have been found to have lower COMT activity compared to those with the Val allele (the common form). This difference in COMT activity can influence cognitive function, stress response, and susceptibility to certain mental health conditions.\n\nIn terms of cognitive function, studies have shown that individuals with the Met allele may have an advantage in tasks requiring cognitive flexibility and working memory. However, they may also be more susceptible to stress and anxiety due to the reduced ability to break down catecholamines.\n\nThe COMT V158M variation has also been associated with an increased risk for certain mental health conditions, such as schizophrenia and bipolar disorder. However, it is important to note that the role of this variation in these conditions is complex and likely involves multiple genetic and environmental factors.\n\nIn conclusion, the COMT V158M variation plays a role in modulating COMT enzyme activity and has implications for cognitive function, stress response, and susceptibility to certain mental health conditions.",
+        "effects": [
+          "Dopamine and norepinephrine levels"
+        ],
+        "diet": [
+                "Leafy greens: Spinach, kale, and other leafy greens are rich in folate, which is essential for methylation.",
+                "Fish: Fatty fish like salmon and mackerel are great sources of omega-3 fatty acids, which can help with brain health and neurotransmitter function.",
+                "Nuts and seeds: Almonds, walnuts, and sunflower seeds are high in magnesium, which can help with neurotransmitter balance.",
+                "Berries: Blueberries, strawberries, and blackberries are packed with antioxidants and can help with overall brain health.",
+                "Legumes: Beans and lentils are high in B vitamins, which are important for methylation and neurotransmitter synthesis."
+        ],
+        "supplements": [
+                        "B vitamins: B6, B9 (folate), and B12 are essential for methylation and neurotransmitter synthesis.",
+                        "Magnesium: This mineral can help with neurotransmitter balance and overall brain health.",
+                        "Omega-3 fatty acids: These can help with brain health and neurotransmitter function.",
+                        "SAMe: S-adenosylmethionine is a naturally occurring compound that can help with methylation and neurotransmitter synthesis.",
+                        "Curcumin: This compound, found in turmeric, has been shown to have potential benefits for brain health and neurotransmitter function."
+        ],
+        "caveat": "Remember, it's always a good idea to consult with a healthcare professional before starting any new diet or supplement regimen.",
+        "supplement_referral": [
+          {
+            "name": "Vitamin B6",
+            "dosage": "100 mg",
+            "frequency": "daily",
+            "caveat": "",
+            "affiliate_links": []
+          },
+          {
+            "name": "Vitamin B12",
+            "dosage": "500 mcg",
+            "frequency": "daily",
+            "caveat": "",
+            "affiliate_links": []
+          },
+          {
+            "name": "Vitamin B9",
+            "dosage": "600 mcg",
+            "frequency": "daily",
+            "caveat": "",
+            "affiliate_links": []
+          },
+          {
+            "name": "Magnesium",
+            "dosage": "400 mg",
+            "frequency": "daily",
+            "caveat": "",
+            "affiliate_links": []
+          },
+          {
+            "name": "Omega-3",
+            "dosage": "500 mg",
+            "frequency": "daily",
+            "caveat": "Fish oil is a common source of Omega-3 but some fish are high in mercury. Pay attention to source when shopping for Fish Oil.",
+            "affiliate_links": []
+          },
+          {
+            "name": "SAMe",
+            "dosage": "1000 mg",
+            "frequency": "daily",
+            "caveat": "",
+            "affiliate_links": []
+          },
+          {
+            "name": "Curcumin",
+            "dosage": "1000 mg",
+            "frequency": "daily",
+            "caveat": "",
+            "affiliate_links": []
+          }
+        ]
+      },
+      "H62H": {
+        "blurb": "Let's talk about the H62H variation. This is a single nucleotide polymorphism (SNP) in the COMT gene, which means that one nucleotide (A or G) is swapped for another (C or T) at position 62. This change can lead to a different amino acid being produced, which can affect the function of the COMT enzyme.\n\nThe H62H variation has been associated with differences in COMT activity, which can influence cognitive function, stress response, and susceptibility to certain mental health conditions. Some studies have even linked it to differences in pain perception and the development of chronic pain conditions.\n",
+        "effects": [
+          "Dopamine and norepinephrine levels"
+        ],
+        "diet": [
+                "Leafy greens: Spinach, kale, and other leafy greens are rich in folate, which is essential for methylation.",
+                "Fish: Fatty fish like salmon and mackerel are great sources of omega-3 fatty acids, which can help with brain health and neurotransmitter function.",
+                "Nuts and seeds: Almonds, walnuts, and sunflower seeds are high in magnesium, which can help with neurotransmitter balance.",
+                "Berries: Blueberries, strawberries, and blackberries are packed with antioxidants and can help with overall brain health.",
+                "Legumes: Beans and lentils are high in B vitamins, which are important for methylation and neurotransmitter synthesis."
+        ],
+        "supplements": [
+                        "B vitamins: B6, B9 (folate), and B12 are essential for methylation and neurotransmitter synthesis.",
+                        "Magnesium: This mineral can help with neurotransmitter balance and overall brain health.",
+                        "Omega-3 fatty acids: These can help with brain health and neurotransmitter function.",
+                        "SAMe: S-adenosylmethionine is a naturally occurring compound that can help with methylation and neurotransmitter synthesis.",
+                        "Curcumin: This compound, found in turmeric, has been shown to have potential benefits for brain health and neurotransmitter function."
+        ],
+        "caveat": "Remember, it's always a good idea to consult with a healthcare professional before starting any new diet or supplement regimen.",
+        "supplement_referral": [
+          {
+            "name": "Vitamin B6",
+            "dosage": "100 mg",
+            "frequency": "daily",
+            "caveat": "",
+            "affiliate_links": []
+          },
+          {
+            "name": "Vitamin B12",
+            "dosage": "500 mcg",
+            "frequency": "daily",
+            "caveat": "",
+            "affiliate_links": []
+          },
+          {
+            "name": "Vitamin B9",
+            "dosage": "600 mcg",
+            "frequency": "daily",
+            "caveat": "",
+            "affiliate_links": []
+          },
+          {
+            "name": "Magnesium",
+            "dosage": "400 mg",
+            "frequency": "daily",
+            "caveat": "",
+            "affiliate_links": []
+          },
+          {
+            "name": "Omega-3",
+            "dosage": "500 mg",
+            "frequency": "daily",
+            "caveat": "Fish oil is a common source of Omega-3 but some fish are high in mercury. Pay attention to source when shopping for Fish Oil.",
+            "affiliate_links": []
+          },
+          {
+            "name": "SAMe",
+            "dosage": "1000 mg",
+            "frequency": "daily",
+            "caveat": "",
+            "affiliate_links": []
+          },
+          {
+            "name": "Curcumin",
+            "dosage": "1000 mg",
+            "frequency": "daily",
+            "caveat": "",
+            "affiliate_links": []
+          }
+        ]
+      },
+      "P199P": {
+        "blurb": "Now, let's talk about the P199P variation. This is a single nucleotide polymorphism (SNP) in the COMT gene, which means that one nucleotide (A or G) is swapped for another (C or T) at position 199. This change can lead to a different amino acid being produced, which can affect the function of the COMT enzyme.\n\nThe P199P variation has been associated with differences in COMT activity, which can influence cognitive function, stress response, and susceptibility to certain mental health conditions. Some studies have even linked it to differences in pain perception and the development of chronic pain conditions.",
+        "effects": [
+          "Dopamine and norepinephrine levels"
+        ],
+        "diet": [
+                "Leafy greens: Spinach, kale, and other leafy greens are rich in folate, which is essential for methylation.",
+                "Fish: Fatty fish like salmon and mackerel are great sources of omega-3 fatty acids, which can help with brain health and neurotransmitter function.",
+                "Nuts and seeds: Almonds, walnuts, and sunflower seeds are high in magnesium, which can help with neurotransmitter balance.",
+                "Berries: Blueberries, strawberries, and blackberries are packed with antioxidants and can help with overall brain health.",
+                "Legumes: Beans and lentils are high in B vitamins, which are important for methylation and neurotransmitter synthesis."
+        ],
+        "supplements": [
+                        "B vitamins: B6, B9 (folate), and B12 are essential for methylation and neurotransmitter synthesis.",
+                        "Magnesium: This mineral can help with neurotransmitter balance and overall brain health.",
+                        "Omega-3 fatty acids: These can help with brain health and neurotransmitter function.",
+                        "SAMe: S-adenosylmethionine is a naturally occurring compound that can help with methylation and neurotransmitter synthesis.",
+                        "Curcumin: This compound, found in turmeric, has been shown to have potential benefits for brain health and neurotransmitter function."
+        ],
+        "caveat": "Remember, it's always a good idea to consult with a healthcare professional before starting any new diet or supplement regimen.",
+        "supplement_referral": [
+          {
+            "name": "Vitamin B6",
+            "dosage": "100 mg",
+            "frequency": "daily",
+            "caveat": "",
+            "affiliate_links": []
+          },
+          {
+            "name": "Vitamin B12",
+            "dosage": "500 mcg",
+            "frequency": "daily",
+            "caveat": "",
+            "affiliate_links": []
+          },
+          {
+            "name": "Vitamin B9",
+            "dosage": "600 mcg",
+            "frequency": "daily",
+            "caveat": "",
+            "affiliate_links": []
+          },
+          {
+            "name": "Magnesium",
+            "dosage": "400 mg",
+            "frequency": "daily",
+            "caveat": "",
+            "affiliate_links": []
+          },
+          {
+            "name": "Omega-3",
+            "dosage": "500 mg",
+            "frequency": "daily",
+            "caveat": "Fish oil is a common source of Omega-3 but some fish are high in mercury. Pay attention to source when shopping for Fish Oil.",
+            "affiliate_links": []
+          },
+          {
+            "name": "SAMe",
+            "dosage": "1000 mg",
+            "frequency": "daily",
+            "caveat": "",
+            "affiliate_links": []
+          },
+          {
+            "name": "Curcumin",
+            "dosage": "1000 mg",
+            "frequency": "daily",
+            "caveat": "",
+            "affiliate_links": []
+          }
+        ]
+      }
+    }
+  },
+  "VDR": {
+    "blurb": "The VDR gene, also known as the vitamin D receptor gene, is responsible for producing a protein that binds to vitamin D, allowing the body to absorb calcium and maintain healthy bones. Mutations in this gene can lead to conditions such as rickets and osteoporosis. So, if you're not getting enough vitamin D, blame your VDR gene - it's probably slacking off on the job!",
+    "Variations": {
+      "BSM": {
+        "blurb": "Let's talk about the BSM variation. This single nucleotide polymorphism (SNP) in the VDR gene can affect the function of the vitamin D receptor. Some studies have linked the BSM variation to an increased risk of certain diseases, such as autoimmune disorders and cancer.",
+        "effects": [
+          "Vitamin D receptivity"
+        ],
+        "diet": [
+                "Make sure you're getting enough calcium in your diet. Foods like dairy products, leafy greens, and fish with bones (yes, you can eat those!) are great sources of calcium.",
+                "And don't forget about vitamin D, which helps your body absorb calcium. You can get vitamin D from foods like fatty fish, egg yolks, and fortified foods, or by soaking up some sun."
+        ],
+        "supplements": [
+                      "Calcium",
+                      "Vitamin D"
+        ],
+        "caveat": "While many people are Vitamin D deficient due to being indoors, it is also possible to have too much. Make sure to talk to your healthcare provider first, as they can help you figure out the right dosage for you",
+        "supplement_referral": [
+          {
+            "name": "Calcium",
+            "dosage": "1000 mg",
+            "frequency": "daily",
+            "caveat": "",
+            "affiliate_links": []
+          },
+          {
+            "name": "Vitamin D3",
+            "dosage": "500 IU",
+            "frequency": "daily",
+            "caveat": "You can get too much Vitamin D3. Consider your current diet and intake.",
+            "affiliate_links": []
+          }
+        ]
+      },
+      "TAQ": {
+        "blurb": "The VDR TAQ gene variation, also known as the VDR gene polymorphism, is a genetic variation that affects the vitamin D receptor (VDR) gene. This gene plays a crucial role in regulating the body's response to vitamin D, which is essential for calcium absorption, bone health, and immune system function.The VDR TAQ gene variation has been associated with an increased risk of several diseases, including osteoporosis, cancer, and autoimmune disorders. However, the exact mechanism by which this variation increases disease risk is not fully understood. One possible explanation is that the VDR TAQ gene variation affects the ability of the VDR protein to bind to vitamin D, which could reduce the effectiveness of vitamin D signaling in the body. This could lead to decreased calcium absorption and weakened bones, as well as impaired immune system function.",
+        "effects": [
+          "Vitamin D receptivity"
+        ],
+        "diet": [
+                "Make sure you're getting enough calcium in your diet. Foods like dairy products, leafy greens, and fish with bones (yes, you can eat those!) are great sources of calcium.",
+                "And don't forget about vitamin D, which helps your body absorb calcium. You can get vitamin D from foods like fatty fish, egg yolks, and fortified foods, or by soaking up some sun."
+        ],
+        "supplements": [
+                      "Calcium",
+                      "Vitamin D"
+        ],
+        "caveat": "While many people are Vitamin D deficient due to being indoors, it is also possible to have too much. Make sure to talk to your healthcare provider first, as they can help you figure out the right dosage for you",
+        "supplement_referral": [
+          {
+            "name": "Calcium",
+            "dosage": "1000 mg",
+            "frequency": "daily",
+            "caveat": "",
+            "affiliate_links": []
+          },
+          {
+            "name": "Vitamin D3",
+            "dosage": "500 IU",
+            "frequency": "daily",
+            "caveat": "You can get too much Vitamin D3. Consider your current diet and intake.",
+            "affiliate_links": []
+          }
+        ]
+      }
+    }
+  },
+  "MTHFR": {
+    "blurb": "The MTHFR gene plays a crucial role in the methylation process, which is essential for various bodily functions such as DNA synthesis, neurotransmitter production, and detoxification. Mutations in this gene can lead to decreased enzyme activity, potentially causing health issues like elevated homocysteine levels.",
+    "Variations": {
+      "C677T": {
+        "blurb": "The MTHFR C677T gene variation is a single nucleotide polymorphism (SNP) in the MTHFR gene, which stands for methylenetetrahydrofolate reductase. This gene is responsible for breaking down an amino acid called homocysteine. Now, you might be thinking, \"What in the world does that have to do with anything?\" Well, high levels of homocysteine have been linked to an increased risk of heart disease, stroke, and other health issues.\n\nBut let's get back to the C677T variation. This specific variation has been associated with reduced MTHFR enzyme activity, which means that people with this variation might have higher homocysteine levels. And as we just learned, that's not a good thing.\n\nNow, you might be wondering if you have this gene variation. Well, the C677T variation is quite common, with about 30-40% of the population carrying at least one copy of the variant. But don't worry, just because you have the gene variation doesn't mean you're doomed to high homocysteine levels. There are ways to manage it, like maintaining a healthy diet and lifestyle.\n\nIn conclusion, the MTHFR C677T gene variation can affect homocysteine levels and potentially increase the risk of certain health issues. But don't let that get you down! Knowledge is power, and now that you know about this gene variation, you can take steps to keep your homocysteine levels in check.",
+        "effects": [
+          "Higher homocysteine levels"
+        ],
+        "diet": [
+          "Include more vitamin B-rich foods in your diet, such as leafy greens, legumes, nuts, and whole grains.",
+          "Add lean protein sources like fish, chicken, and low-fat dairy products.",
+          "Opt for foods high in folate, like spinach, asparagus, and lentils.",
+          "Limit processed and red meats, as well as alcohol and caffeine."
+        ],
+        "supplements": [
+          "Consider taking a B-complex vitamin supplement, which includes vitamins B6, B12, and folate.",
+          "Talk to your healthcare provider about adding a daily supplement of betaine or trimethylglycine (TMG)."
+        ],
+        "caveat": "Remember, it's always a good idea to consult with a healthcare professional before starting any new diet or supplement regimen. ",
+        "supplement_referral": [
+          {
+            "name": "Vitamin B6",
+            "dosage": "100 mg",
+            "frequency": "daily",
+            "caveat": "",
+            "affiliate_links": []
+          },
+          {
+            "name": "Vitamin B12",
+            "dosage": "500 mcg",
+            "frequency": "daily",
+            "caveat": "",
+            "affiliate_links": []
+          },
+          {
+            "name": "folate",
+            "dosage": "600 mcg",
+            "frequency": "daily",
+            "caveat": "",
+            "affiliate_links": []
+          },
+          {
+            "name": "TMG",
+            "dosage": "500 mg",
+            "frequency": "daily",
+            "caveat": "It's best to consult with a healthcare professional to determine the appropriate dose for your needs.",
+            "affiliate_links": []
+          }
+        ]
+      },
+      "03 P39P": {
+        "blurb": "The MTHFR 03 P39P gene variation, also known as the MTHFR C677T gene mutation, is a change in the DNA sequence of the MTHFR gene. This gene is responsible for producing an enzyme called methylenetetrahydrofolate reductase, which plays a crucial role in processing amino acids and converting homocysteine into methionine. The C677T mutation is associated with reduced enzyme activity, which can lead to higher levels of homocysteine in the blood. Elevated homocysteine levels have been linked to an increased risk of various health conditions, such as cardiovascular disease, stroke, and neural tube defects in babies.\n\nIndividuals with the MTHFR 03 P39P gene variation may benefit from lifestyle changes and supplementation to support healthy homocysteine levels. These can include eating a balanced diet rich in vitamins B6, B12, and folate, as well as considering supplementation under the guidance of a healthcare professional.\n\nIn conclusion, the MTHFR 03 P39P gene variation can affect the body's ability to process homocysteine, which may increase the risk of certain health issues. However, with proper management and support, individuals with this gene variation can maintain good health.",
+        "effects": [
+          "Higher homocysteine levels"
+        ],
+        "diet": [
+          "Include more vitamin B-rich foods in your diet, such as leafy greens, legumes, nuts, and whole grains.",
+          "Add lean protein sources like fish, chicken, and low-fat dairy products.",
+          "Opt for foods high in folate, like spinach, asparagus, and lentils.",
+          "Limit processed and red meats, as well as alcohol and caffeine."
+        ],
+        "supplements": [
+          "Consider taking a B-complex vitamin supplement, which includes vitamins B6, B12, and folate.",
+          "Talk to your healthcare provider about adding a daily supplement of betaine or trimethylglycine (TMG)."
+        ],
+        "caveat": "It's important to consult with a healthcare professional before starting any new supplement regimen, as they can provide personalized recommendations based on your specific needs and medical history.",
+        "supplement_referral": [
+          {
+            "name": "Vitamin B6",
+            "dosage": "100 mg",
+            "frequency": "daily",
+            "caveat": "",
+            "affiliate_links": []
+          },
+          {
+            "name": "Vitamin B12",
+            "dosage": "500 mcg",
+            "frequency": "daily",
+            "caveat": "",
+            "affiliate_links": []
+          },
+          {
+            "name": "folate",
+            "dosage": "600 mcg",
+            "frequency": "daily",
+            "caveat": "",
+            "affiliate_links": []
+          },
+          {
+            "name": "TMG",
+            "dosage": "500 mg",
+            "frequency": "daily",
+            "caveat": "It's best to consult with a healthcare professional to determine the appropriate dose for your needs.",
+            "affiliate_links": []
+          }
+        ]
+      },
+      "A1298C": {
+        "blurb": "The MTHFR A1298C gene variation is a change in the DNA sequence of the MTHFR gene, which can affect the way the body processes an essential B vitamin called folate. This gene variation is associated with a reduced activity of the MTHFR enzyme, which plays a key role in converting folate into its active form, L-methylfolate.\n\nThe impact of the A1298C variation on the MTHFR enzyme is not as significant as the more common C677T variation. However, it can still contribute to an increased risk of certain health issues, particularly when combined with other genetic factors or environmental influences.\n\nIn summary, the MTHFR A1298C gene variation may affect the body's ability to process folate, which can have implications for overall health. However, the impact of this variation is generally less significant than other MTHFR gene variations.",
+        "effects": [
+          "Lower folate retention"
+        ],
+        "diet": [
+                "Focus on consuming natural food sources of folate, such as leafy green vegetables, legumes, and whole grains.",
+                "Include foods rich in vitamin B12, like fish, lean meat, and eggs, to support proper folate metabolism.",
+                "Incorporate foods high in vitamin B6, like bananas, potatoes, and nuts, to aid in the conversion of homocysteine to methionine."
+        ],
+        "supplements": [
+          "Consider supplementing with methylfolate."
+        ],
+        "caveat": "methylfolate",
+        "supplement_referral": [
+          {
+            "name": "methylfolate",
+            "dosage": "300 mcg",
+            "frequency": "daily",
+            "caveat": "Be cautious with high doses of folic acid, as it may not be well-utilized by individuals with the MTHFR A1298C gene variation. Consult with your healthcare provider.",
+            "affiliate_links": []
+          }
+        ]
+      }
+    }
+  },
+  "MAO-A": {
+    "blurb": "The MAO-A gene plays a crucial role in regulating your mood and behavior by producing an enzyme called monoamine oxidase A. This little guy breaks down neurotransmitters like serotonin and dopamine, which are essential for your emotional well-being. ",
+    "Variations": {
+      "R297R": {
+        "blurb": "The R297R variation can come in a few different flavors - the 2R, 3R, and 4R variants. The 2R variant has been linked to lower levels of the MAO-A enzyme, which can lead to higher levels of aggression and impulsivity. On the other hand, the 4R variant is associated with higher levels of the enzyme and lower levels of aggression.\n\nSo, what's the significance of this variation? Well, it can help us understand why some people may be more prone to aggressive behavior or impulsivity, and it could even play a role in the development of certain mental health conditions. But remember, our genes are just one piece of the puzzle - our environment and experiences also play a huge role in shaping who we are.",
+        "effects": [
+          "Mood, aggression or depression depending on the variant"
+        ],
+        "diet": [
+                "Some studies suggest that foods rich in antioxidants, like fruits and vegetables, can help reduce oxidative stress and support the enzyme's function."
+        ],
+        "supplements": [
+                      "Vitamin C is a powerful and natural antioxidant. Some studies suggest lowering oxidative stress can improve MAO-A function.",
+                      "Vitamin B6 can help neurotransmitter function"
+        ],
+        "caveat": "",
+        "supplement_referral": [
+          {
+            "name": "Vitamin C",
+            "dosage": "500 mg",
+            "frequency": "daily",
+            "caveat": "While safe, high vitamin C doses can lead to loose stools. Consult with your Medical Provider.",
+            "affiliate_links": []
+          },
+          {
+            "name": "Vitamin B6",
+            "dosage": "100 mg",
+            "frequency": "daily",
+            "caveat": "",
+            "affiliate_links": []
+          }
+        ]
+      }
+    }
+  },
+  "ACAT1": {
+    "blurb": "This little guy is like a tiny switch that can affect the activity of the ACAT1 enzyme, which is responsible for breaking down certain fatty acids and amino acids.",
+    "Variations": {
+      "02": {
+        "blurb": "Now, the ACAT1-02 gene variation has been linked to a condition called beta-ketothiolase deficiency, which can lead to some pretty unpleasant symptoms like vomiting, dehydration, and even coma. So, if you're feeling a little under the weather, it might not be the best idea to blame it on your genes - go see a healthcare professional! BKT deficiency cannot properly use the amino acid isoleucine found in the protein they eat, and they cannot properly break down fats. If left untreated, byproducts of isoleucine and fat metabolism, called ketones, build up in the bloodstream, urine, and body tissue, and cause lifethreatening illness and brain damage.",
+        "effects": [
+          "Possible link to beta-ketothiolase deficiency, inability to metabolize protein and fats"
+        ],
+        "diet": [
+                "Consider a lower protein diet. The emergence of BKT deficiency is complex. Please consult with your healthcare provider.",
+                "Avoid medium chain triglycerides"
+        ],
+        "supplements": [
+                      " L-carnitine supplementation may be helpful."
+        ],
+        "caveat": "While not everyone with ACAT1-02 has beta-ketothiolase deficiency, it is a serious condition. Please consult with a healthcare provider",
+        "supplement_referral": [
+          {
+            "name": " L-carnitine",
+            "dosage": "50 mg/kg",
+            "frequency": "daily",
+            "caveat": "Dosage based on weight.",
+            "affiliate_links": []
+          }
+        ]
+      }
+    }
+  },
+  "MTR": {
+    "blurb": "The MTR gene plays a crucial role in the conversion of homocysteine to methionine, an essential amino acid used in the production of proteins. It is the starting amino acid for every protein the body makes. The MTR gene works in the final step to regenerate homocysteine into methionine using methyl-B12 (methylcobalamin).",
+    "Variations": {
+      "A2756G": {
+        "blurb": "The A2756G variation specifically involves a change from adenine (A) to guanine (G) at position 2756 in the gene sequence. This change results in an amino acid substitution from aspartic acid to glycine at codon 919 (D919G) in the methionine synthase enzyme.\n\nThe significance of this variation lies in the potential impact on enzyme function. Some studies have suggested that the MTR A2756G variation can lead to reduced enzyme activity, which may affect homocysteine metabolism and potentially contribute to increased homocysteine levels. Elevated homocysteine levels have been associated with various health conditions, such as cardiovascular disease, neural tube defects, and certain cancers.\n\nHowever, the exact impact of the MTR A2756G variation on enzyme function and health outcomes is still under investigation. Further research is needed to better understand the implications of this variation and its potential role in disease development.",
+        "effects": [
+          "Possibly elevated homocysteine levels"
+        ],
+        "diet": [
+          "Consume a diet rich in whole foods: Focus on whole grains, lean proteins, fruits, vegetables, and healthy fats.",
+          "Include sources of folate: Foods high in folate include leafy greens, legumes, and fortified grains.",
+          "Incorporate foods rich in vitamin B12: Vitamin B12 can be found in animal products such as meat, fish, and dairy. Vegans and vegetarians may need to consider supplementation.",
+          "Include foods with vitamin B6: Foods high in vitamin B6 include fish, poultry, potatoes, and non-citrus fruits."
+        ],
+        "supplements": [
+          "Folate (5-MTHF or L-methylfolate): This is the active form of folate and may be more readily absorbed by individuals with the MTR A2756G variation.",
+          "Vitamin B12 (methylcobalamin): This form of vitamin B12 may be more effective for individuals with the MTR A2756G variation.",
+          "Vitamin B6 (pyridoxal-5-phosphate or P5P): This is the active form of vitamin B6 and may be more readily absorbed by individuals with the MTR A2756G variation."
+        ],
+        "caveat": "",
+        "supplement_referral": [
+          {
+            "name": "methylfolate",
+            "dosage": "300 mcg",
+            "frequency": "daily",
+            "caveat": "Be cautious with high doses of folic acid, as it may not be well-utilized by individuals with the MTHFR A1298C gene variation. Consult with your healthcare provider.",
+            "affiliate_links": []
+          },
+          {
+            "name": "Vitamin B6",
+            "dosage": "100 mg",
+            "frequency": "daily",
+            "caveat": "",
+            "affiliate_links": []
+          },
+          {
+            "name": "Vitamin B12",
+            "dosage": "500 mcg",
+            "frequency": "daily",
+            "caveat": "",
+            "affiliate_links": []
+          }
+        ]
+      }
+    }
+  },
+  "MTRR": {
+    "blurb": "The MTRR gene plays a crucial role in maintaining healthy levels of homocysteine, an amino acid that is important for various biological processes. Mutations in the MTRR gene can lead to reduced enzyme activity, which may result in elevated homocysteine levels and an increased risk of various health conditions, such as neural tube defects and cardiovascular disease. Maintaining a healthy diet and lifestyle, along with regular monitoring of homocysteine levels, can help manage the potential risks associated with MTRR gene variations.",
+    "Variations": {
+      "A66G": {
+        "blurb": "The MTRR A66G variation specifically involves a change from adenine (A) to guanine (G) at position 66 in the gene sequence. This change results in an amino acid substitution from isoleucine to methionine at codon 22 (I22M) in the methionine synthase reductase enzyme. The impact of this variation on enzyme function and health outcomes is still under investigation, but some studies have suggested that the MTRR A66G variation may be associated with an increased risk of certain diseases or disorders.\n\nIt is important to maintain a healthy diet and lifestyle, along with regular monitoring of homocysteine levels, to manage the potential risks associated with MTRR gene variations. Consulting a healthcare professional before making any significant changes to your diet or supplement routine is also recommended.",
+        "effects": [
+          "Possibly elevated homocysteine levels"
+        ],
+        "diet": [
+          "Consume a diet rich in whole foods: Focus on whole grains, lean proteins, fruits, vegetables, and healthy fats.",
+          "Include sources of folate: Foods high in folate include leafy greens, legumes, and fortified grains.",
+          "Incorporate foods rich in vitamin B12: Vitamin B12 can be found in animal products such as meat, fish, and dairy. Vegans and vegetarians may need to consider supplementation.",
+          "Include foods with vitamin B6: Foods high in vitamin B6 include fish, poultry, potatoes, and non-citrus fruits."
+        ],
+        "supplements": [
+          "Folate (5-MTHF or L-methylfolate): This is the active form of folate and may be more readily absorbed by individuals with the MTRR A66G variation.",
+          "Vitamin B12 (methylcobalamin): This form of vitamin B12 may be more effective for individuals with the MTRR A66G variation.",
+          "Vitamin B6 (pyridoxal-5-phosphate or P5P): This is the active form of vitamin B6 and may be more readily absorbed by individuals with the MTRR A66G variation.",
+          "Zinc: This mineral plays a role in the conversion of homocysteine to methionine and may be beneficial for individuals with the MTRR A66G variation."
+        ],
+        "caveat": "",
+        "supplement_referral": [
+          {
+            "name": "methylfolate",
+            "dosage": "300 mcg",
+            "frequency": "daily",
+            "caveat": "Be cautious with high doses of folic acid, as it may not be well-utilized by individuals with the MTHFR A1298C gene variation. Consult with your healthcare provider.",
+            "affiliate_links": []
+          },
+          {
+            "name": "P5P",
+            "dosage": "100 mg",
+            "frequency": "daily",
+            "caveat": "",
+            "affiliate_links": []
+          },
+          {
+            "name": "Vitamin B12",
+            "dosage": "500 mcg",
+            "frequency": "daily",
+            "caveat": "",
+            "affiliate_links": []
+          },
+          {
+            "name": "Zinc",
+            "dosage": "25 mg",
+            "frequency": "daily",
+            "caveat": "",
+            "affiliate_links": []
+          }
+        ]
+      },
+      "H595Y": {
+        "blurb": "The MTRR H595Y variation specifically involves a change from histidine to tyrosine at position 595 in the gene sequence. This change results in an amino acid substitution from histidine to tyrosine at codon 595 in the methionine synthase reductase enzyme. The impact of this variation on enzyme function and health outcomes is still under investigation, but some studies have suggested that the MTRR H595Y variation may be associated with an increased risk of certain diseases or disorders.\n\nIt is important to maintain a healthy diet and lifestyle, along with regular monitoring of homocysteine levels, to manage the potential risks associated with MTRR gene variations. Consulting a healthcare professional before making any significant changes to your diet or supplement routine is also recommended.",
+        "effects": [
+          "Possibly elevated homocysteine levels"
+        ],
+        "diet": [
+          "Consume a diet rich in whole foods: Focus on whole grains, lean proteins, fruits, vegetables, and healthy fats.",
+          "Include sources of folate: Foods high in folate include leafy greens, legumes, and fortified grains.",
+          "Incorporate foods rich in vitamin B12: Vitamin B12 can be found in animal products such as meat, fish, and dairy. Vegans and vegetarians may need to consider supplementation.",
+          "Include foods with vitamin B6: Foods high in vitamin B6 include fish, poultry, potatoes, and non-citrus fruits."
+        ],
+        "supplements": [
+          "Folate (5-MTHF or L-methylfolate): This is the active form of folate and may be more readily absorbed by individuals with the MTRR A66G variation.",
+          "Vitamin B12 (methylcobalamin): This form of vitamin B12 may be more effective for individuals with the MTRR A66G variation.",
+          "Vitamin B6 (pyridoxal-5-phosphate or P5P): This is the active form of vitamin B6 and may be more readily absorbed by individuals with the MTRR A66G variation.",
+          "Zinc: This mineral plays a role in the conversion of homocysteine to methionine and may be beneficial for individuals with the MTRR A66G variation."
+        ],
+        "caveat": "",
+        "supplement_referral": [
+          {
+            "name": "methylfolate",
+            "dosage": "300 mcg",
+            "frequency": "daily",
+            "caveat": "Be cautious with high doses of folic acid, as it may not be well-utilized by individuals with the MTHFR A1298C gene variation. Consult with your healthcare provider.",
+            "affiliate_links": []
+          },
+          {
+            "name": "P5P",
+            "dosage": "100 mg",
+            "frequency": "daily",
+            "caveat": "",
+            "affiliate_links": []
+          },
+          {
+            "name": "Vitamin B12",
+            "dosage": "500 mcg",
+            "frequency": "daily",
+            "caveat": "",
+            "affiliate_links": []
+          },
+          {
+            "name": "Zinc",
+            "dosage": "25 mg",
+            "frequency": "daily",
+            "caveat": "",
+            "affiliate_links": []
+          }
+        ]
+      },
+      "K350A": {
+        "blurb": "The MTRR K350A variation specifically involves a change from lysine to alanine at position 350 in the gene sequence. This change results in an amino acid substitution from lysine to alanine at codon 350 in the methionine synthase reductase enzyme. The impact of this variation on enzyme function and health outcomes is still under investigation, but some studies have suggested that the MTRR K350A variation may be associated with an increased risk of certain diseases or disorders.\n\nIt is important to maintain a healthy diet and lifestyle, along with regular monitoring of homocysteine levels, to manage the potential risks associated with MTRR gene variations. Consulting a healthcare professional before making any significant changes to your diet or supplement routine is also recommended.",
+        "effects": [
+          "Possibly elevated homocysteine levels"
+        ],
+        "diet": [
+          "Consume a diet rich in whole foods: Focus on whole grains, lean proteins, fruits, vegetables, and healthy fats.",
+          "Include sources of folate: Foods high in folate include leafy greens, legumes, and fortified grains.",
+          "Incorporate foods rich in vitamin B12: Vitamin B12 can be found in animal products such as meat, fish, and dairy. Vegans and vegetarians may need to consider supplementation.",
+          "Include foods with vitamin B6: Foods high in vitamin B6 include fish, poultry, potatoes, and non-citrus fruits."
+        ],
+        "supplements": [
+          "Folate (5-MTHF or L-methylfolate): This is the active form of folate and may be more readily absorbed by individuals with the MTRR A66G variation.",
+          "Vitamin B12 (methylcobalamin): This form of vitamin B12 may be more effective for individuals with the MTRR A66G variation.",
+          "Vitamin B6 (pyridoxal-5-phosphate or P5P): This is the active form of vitamin B6 and may be more readily absorbed by individuals with the MTRR A66G variation.",
+          "Zinc: This mineral plays a role in the conversion of homocysteine to methionine and may be beneficial for individuals with the MTRR A66G variation."
+        ],
+        "caveat": "",
+        "supplement_referral": [
+          {
+            "name": "methylfolate",
+            "dosage": "300 mcg",
+            "frequency": "daily",
+            "caveat": "Be cautious with high doses of folic acid, as it may not be well-utilized by individuals with the MTHFR A1298C gene variation. Consult with your healthcare provider.",
+            "affiliate_links": []
+          },
+          {
+            "name": "P5P",
+            "dosage": "100 mg",
+            "frequency": "daily",
+            "caveat": "",
+            "affiliate_links": []
+          },
+          {
+            "name": "Vitamin B12",
+            "dosage": "500 mcg",
+            "frequency": "daily",
+            "caveat": "",
+            "affiliate_links": []
+          },
+          {
+            "name": "Zinc",
+            "dosage": "25 mg",
+            "frequency": "daily",
+            "caveat": "",
+            "affiliate_links": []
+          }
+        ]
+      },
+      "R415T": {
+        "blurb": "The MTRR R415T variation specifically involves a change from arginine to threonine at position 415 in the gene sequence. This change results in an amino acid substitution from arginine to threonine at codon 415 in the methionine synthase reductase enzyme. The impact of this variation on enzyme function and health outcomes is still under investigation, but some studies have suggested that the MTRR R415T variation may be associated with an increased risk of certain diseases or disorders.\n\nIt is important to maintain a healthy diet and lifestyle, along with regular monitoring of homocysteine levels, to manage the potential risks associated with MTRR gene variations. Consulting a healthcare professional before making any significant changes to your diet or supplement routine is also recommended.",
+        "effects": [
+          "Possibly elevated homocysteine levels"
+        ],
+        "diet": [
+          "Consume a diet rich in whole foods: Focus on whole grains, lean proteins, fruits, vegetables, and healthy fats.",
+          "Include sources of folate: Foods high in folate include leafy greens, legumes, and fortified grains.",
+          "Incorporate foods rich in vitamin B12: Vitamin B12 can be found in animal products such as meat, fish, and dairy. Vegans and vegetarians may need to consider supplementation.",
+          "Include foods with vitamin B6: Foods high in vitamin B6 include fish, poultry, potatoes, and non-citrus fruits."
+        ],
+        "supplements": [
+          "Folate (5-MTHF or L-methylfolate): This is the active form of folate and may be more readily absorbed by individuals with the MTRR A66G variation.",
+          "Vitamin B12 (methylcobalamin): This form of vitamin B12 may be more effective for individuals with the MTRR A66G variation.",
+          "Vitamin B6 (pyridoxal-5-phosphate or P5P): This is the active form of vitamin B6 and may be more readily absorbed by individuals with the MTRR A66G variation.",
+          "Zinc: This mineral plays a role in the conversion of homocysteine to methionine and may be beneficial for individuals with the MTRR A66G variation."
+        ],
+        "caveat": "",
+        "supplement_referral": [
+          {
+            "name": "methylfolate",
+            "dosage": "300 mcg",
+            "frequency": "daily",
+            "caveat": "Be cautious with high doses of folic acid, as it may not be well-utilized by individuals with the MTHFR A1298C gene variation. Consult with your healthcare provider.",
+            "affiliate_links": []
+          },
+          {
+            "name": "P5P",
+            "dosage": "100 mg",
+            "frequency": "daily",
+            "caveat": "",
+            "affiliate_links": []
+          },
+          {
+            "name": "Vitamin B12",
+            "dosage": "500 mcg",
+            "frequency": "daily",
+            "caveat": "",
+            "affiliate_links": []
+          },
+          {
+            "name": "Zinc",
+            "dosage": "25 mg",
+            "frequency": "daily",
+            "caveat": "",
+            "affiliate_links": []
+          }
+        ]
+      },
+      "A664A": {
+        "blurb": "The MTRR A664A variation specifically involves a change from adenine to guanine at position 664 in the gene sequence. This change results in an amino acid substitution from asparagine to aspartic acid at codon 664 in the methionine synthase reductase enzyme. The impact of this variation on enzyme function and health outcomes is still under investigation, but some studies have suggested that the MTRR A664A variation may be associated with an increased risk of certain diseases or disorders.\n\nIt is important to maintain a healthy diet and lifestyle, along with regular monitoring of homocysteine levels, to manage the potential risks associated with MTRR gene variations. Consulting a healthcare professional before making any significant changes to your diet or supplement routine is also recommended.",
+        "effects": [
+          "Possibly elevated homocysteine levels"
+        ],
+        "diet": [
+          "Consume a diet rich in whole foods: Focus on whole grains, lean proteins, fruits, vegetables, and healthy fats.",
+          "Include sources of folate: Foods high in folate include leafy greens, legumes, and fortified grains.",
+          "Incorporate foods rich in vitamin B12: Vitamin B12 can be found in animal products such as meat, fish, and dairy. Vegans and vegetarians may need to consider supplementation.",
+          "Include foods with vitamin B6: Foods high in vitamin B6 include fish, poultry, potatoes, and non-citrus fruits."
+        ],
+        "supplements": [
+          "Folate (5-MTHF or L-methylfolate): This is the active form of folate and may be more readily absorbed by individuals with the MTRR A66G variation.",
+          "Vitamin B12 (methylcobalamin): This form of vitamin B12 may be more effective for individuals with the MTRR A66G variation.",
+          "Vitamin B6 (pyridoxal-5-phosphate or P5P): This is the active form of vitamin B6 and may be more readily absorbed by individuals with the MTRR A66G variation.",
+          "Zinc: This mineral plays a role in the conversion of homocysteine to methionine and may be beneficial for individuals with the MTRR A66G variation."
+        ],
+        "caveat": "",
+        "supplement_referral": [
+          {
+            "name": "methylfolate",
+            "dosage": "300 mcg",
+            "frequency": "daily",
+            "caveat": "Be cautious with high doses of folic acid, as it may not be well-utilized by individuals with the MTHFR A1298C gene variation. Consult with your healthcare provider.",
+            "affiliate_links": []
+          },
+          {
+            "name": "P5P",
+            "dosage": "100 mg",
+            "frequency": "daily",
+            "caveat": "",
+            "affiliate_links": []
+          },
+          {
+            "name": "Vitamin B12",
+            "dosage": "500 mcg",
+            "frequency": "daily",
+            "caveat": "",
+            "affiliate_links": []
+          },
+          {
+            "name": "Zinc",
+            "dosage": "25 mg",
+            "frequency": "daily",
+            "caveat": "",
+            "affiliate_links": []
+          }
+        ]
+      }
+    }
+  },
+  "BHMT": {
+    "blurb": "The BHMT gene, or betaine-homocysteine S-methyltransferase gene, plays a crucial role in the metabolism of homocysteine, an amino acid that is important for various biological processes. Mutations in the BHMT gene may lead to reduced enzyme activity, which can result in elevated homocysteine levels and an increased risk of certain health conditions, such as cardiovascular disease and neural tube defects. Maintaining a healthy diet and lifestyle, along with regular monitoring of homocysteine levels, can help manage the potential risks associated with BHMT gene variations.",
+    "Variations": {
+      "02": {
+        "blurb": "The BHMT-02 variation specifically involves a change in the DNA sequence of the BHMT gene, which may lead to an altered amino acid sequence in the resulting BHMT protein. This change in the protein structure could potentially affect its function, stability, or interactions with other molecules. However, the specific functional impact of the BHMT-02 variation is not well-established and may depend on the exact location and nature of the change in the DNA sequence.\n\nIt is important to maintain a healthy diet and lifestyle, along with regular monitoring of homocysteine levels, to manage the potential risks associated with BHMT gene variations. Consulting a healthcare professional before making any significant changes to your diet or supplement routine is also recommended.",
+        "effects": [
+          "Possibly elevated homocysteine levels"
+        ],
+        "diet": [
+          "Consume a diet rich in whole foods: Focus on whole grains, lean proteins, fruits, vegetables, and healthy fats.",
+          "Include sources of folate: Foods high in folate include leafy greens, legumes, and fortified grains.",
+          "Incorporate foods rich in vitamin B12: Vitamin B12 can be found in animal products such as meat, fish, and dairy. Vegans and vegetarians may need to consider supplementation.",
+          "Include foods with vitamin B6: Foods high in vitamin B6 include fish, poultry, potatoes, and non-citrus fruits."
+        ],
+        "supplements": [
+          "Folate (5-MTHF or L-methylfolate): This is the active form of folate and may be more readily absorbed by individuals with the MTRR A66G variation.",
+          "Vitamin B12 (methylcobalamin): This form of vitamin B12 may be more effective for individuals with the MTRR A66G variation.",
+          "Vitamin B6 (pyridoxal-5-phosphate or P5P): This is the active form of vitamin B6 and may be more readily absorbed by individuals with the MTRR A66G variation.",
+          "Betaine: Also known as trimethylglycine, betaine can help lower homocysteine levels. A typical dosage is 1-3 grams per day, but it's best to consult your healthcare provider for personalized recommendations."
+        ],
+        "caveat": "",
+        "supplement_referral": [
+          {
+            "name": "methylfolate",
+            "dosage": "300 mcg",
+            "frequency": "daily",
+            "caveat": "Be cautious with high doses of folic acid, as it may not be well-utilized by individuals with the MTHFR A1298C gene variation. Consult with your healthcare provider.",
+            "affiliate_links": []
+          },
+          {
+            "name": "P5P",
+            "dosage": "100 mg",
+            "frequency": "daily",
+            "caveat": "",
+            "affiliate_links": []
+          },
+          {
+            "name": "Vitamin B12",
+            "dosage": "500 mcg",
+            "frequency": "daily",
+            "caveat": "",
+            "affiliate_links": []
+          },
+          {
+            "name": "Trimethylglycine",
+            "dosage": "1-3 grams",
+            "frequency": "daily",
+            "caveat": "It's best to consult your healthcare provider for personalized recommendations.",
+            "affiliate_links": []
+          }
+        ]
+      },
+      "04": {
+        "blurb": "The specific functional impact of the BHMT-04 variation is not well-established and may depend on the exact location and nature of the change in the DNA sequence. However, this variation could potentially affect the stability, function, or interactions of the BHMT protein, leading to altered homocysteine metabolism.\n\nIt is important to maintain a healthy diet and lifestyle, along with regular monitoring of homocysteine levels, to manage the potential risks associated with BHMT gene variations. Consulting a healthcare professional before making any significant changes to your diet or supplement routine is also recommended.",
+        "effects": [
+          "Possibly elevated homocysteine levels"
+        ],
+        "diet": [
+          "Consume a diet rich in whole foods: Focus on whole grains, lean proteins, fruits, vegetables, and healthy fats.",
+          "Include sources of folate: Foods high in folate include leafy greens, legumes, and fortified grains.",
+          "Incorporate foods rich in vitamin B12: Vitamin B12 can be found in animal products such as meat, fish, and dairy. Vegans and vegetarians may need to consider supplementation.",
+          "Include foods with vitamin B6: Foods high in vitamin B6 include fish, poultry, potatoes, and non-citrus fruits."
+        ],
+        "supplements": [
+          "Folate (5-MTHF or L-methylfolate): This is the active form of folate and may be more readily absorbed by individuals with the MTRR A66G variation.",
+          "Vitamin B12 (methylcobalamin): This form of vitamin B12 may be more effective for individuals with the MTRR A66G variation.",
+          "Vitamin B6 (pyridoxal-5-phosphate or P5P): This is the active form of vitamin B6 and may be more readily absorbed by individuals with the MTRR A66G variation.",
+          "Betaine: Also known as trimethylglycine, betaine can help lower homocysteine levels. A typical dosage is 1-3 grams per day, but it's best to consult your healthcare provider for personalized recommendations."
+        ],
+        "caveat": "",
+        "supplement_referral": [
+          {
+            "name": "methylfolate",
+            "dosage": "300 mcg",
+            "frequency": "daily",
+            "caveat": "Be cautious with high doses of folic acid, as it may not be well-utilized by individuals with the MTHFR A1298C gene variation. Consult with your healthcare provider.",
+            "affiliate_links": []
+          },
+          {
+            "name": "P5P",
+            "dosage": "100 mg",
+            "frequency": "daily",
+            "caveat": "",
+            "affiliate_links": []
+          },
+          {
+            "name": "Vitamin B12",
+            "dosage": "500 mcg",
+            "frequency": "daily",
+            "caveat": "",
+            "affiliate_links": []
+          },
+          {
+            "name": "Trimethylglycine",
+            "dosage": "1-3 grams",
+            "frequency": "daily",
+            "caveat": "It's best to consult your healthcare provider for personalized recommendations.",
+            "affiliate_links": []
+          }
+        ]
+      },
+      "08": {
+        "blurb": "The specific functional impact of the BHMT-08 variation is not well-established and may depend on the exact location and nature of the change in the DNA sequence. However, this variation could potentially affect the stability, function, or interactions of the BHMT protein, leading to altered homocysteine metabolism.\n\nIt is important to maintain a healthy diet and lifestyle, along with regular monitoring of homocysteine levels, to manage the potential risks associated with BHMT gene variations. Consulting a healthcare professional before making any significant changes to your diet or supplement routine is also recommended.",
+        "effects": [
+          "Possibly elevated homocysteine levels"
+        ],
+        "diet": [
+          "Consume a diet rich in whole foods: Focus on whole grains, lean proteins, fruits, vegetables, and healthy fats.",
+          "Include sources of folate: Foods high in folate include leafy greens, legumes, and fortified grains.",
+          "Incorporate foods rich in vitamin B12: Vitamin B12 can be found in animal products such as meat, fish, and dairy. Vegans and vegetarians may need to consider supplementation.",
+          "Include foods with vitamin B6: Foods high in vitamin B6 include fish, poultry, potatoes, and non-citrus fruits."
+        ],
+        "supplements": [
+          "Folate (5-MTHF or L-methylfolate): This is the active form of folate and may be more readily absorbed by individuals with the MTRR A66G variation.",
+          "Vitamin B12 (methylcobalamin): This form of vitamin B12 may be more effective for individuals with the MTRR A66G variation.",
+          "Vitamin B6 (pyridoxal-5-phosphate or P5P): This is the active form of vitamin B6 and may be more readily absorbed by individuals with the MTRR A66G variation.",
+          "Betaine: Also known as trimethylglycine, betaine can help lower homocysteine levels. A typical dosage is 1-3 grams per day, but it's best to consult your healthcare provider for personalized recommendations."
+        ],
+        "caveat": "",
+        "supplement_referral": [
+          {
+            "name": "methylfolate",
+            "dosage": "300 mcg",
+            "frequency": "daily",
+            "caveat": "Be cautious with high doses of folic acid, as it may not be well-utilized by individuals with the MTHFR A1298C gene variation. Consult with your healthcare provider.",
+            "affiliate_links": []
+          },
+          {
+            "name": "P5P",
+            "dosage": "100 mg",
+            "frequency": "daily",
+            "caveat": "",
+            "affiliate_links": []
+          },
+          {
+            "name": "Vitamin B12",
+            "dosage": "500 mcg",
+            "frequency": "daily",
+            "caveat": "",
+            "affiliate_links": []
+          },
+          {
+            "name": "Trimethylglycine",
+            "dosage": "1-3 grams",
+            "frequency": "daily",
+            "caveat": "It's best to consult your healthcare provider for personalized recommendations.",
+            "affiliate_links": []
+          }
+        ]
+      }
+    }
+  },
+  "AHCY": {
+    "blurb": "The AHCY gene encodes the enzyme S-adenosylhomocysteine hydrolase, which plays a crucial role in the metabolism of methionine, an essential amino acid. This enzyme catalyzes the reversible hydrolysis of S-adenosylhomocysteine to adenosine and homocysteine. Mutations in the AHCY gene can lead to hypermethioninemia and S-adenosylhomocysteine hydrolase deficiency, which can result in various health conditions.",
+    "Variations": {
+      "01": {
+        "blurb": "Mutations in the AHCY gene can lead to reduced enzyme activity, which may result in elevated homocysteine levels and an increased risk of various health conditions, such as hypermethioninemia and S-adenosylhomocysteine hydrolase deficiency. These conditions can have serious health implications, including developmental delays, intellectual disability, and neurological problems.\n\nIt is important to maintain a healthy diet and lifestyle, along with regular monitoring of homocysteine levels, to manage the potential risks associated with AHCY gene variations. Consulting a healthcare professional before making any significant changes to your diet or supplement routine is also recommended.",
+        "effects": [
+          "Possibly elevated homocysteine levels"
+        ],
+        "diet": [
+          "Consume a diet rich in whole foods: Focus on whole grains, lean proteins, fruits, vegetables, and healthy fats.",
+          "Include sources of folate: Foods high in folate include leafy greens, legumes, and fortified grains.",
+          "Incorporate foods rich in vitamin B12: Vitamin B12 can be found in animal products such as meat, fish, and dairy. Vegans and vegetarians may need to consider supplementation.",
+          "Include foods with vitamin B6: Foods high in vitamin B6 include fish, poultry, potatoes, and non-citrus fruits."
+        ],
+        "supplements": [
+          "Folate (5-MTHF or L-methylfolate): This is the active form of folate and may be more readily absorbed by individuals with the MTRR A66G variation.",
+          "Vitamin B12 (methylcobalamin): This form of vitamin B12 may be more effective for individuals with the MTRR A66G variation.",
+          "Vitamin B6 (pyridoxal-5-phosphate or P5P): This is the active form of vitamin B6 and may be more readily absorbed by individuals with the MTRR A66G variation.",
+          "Betaine: Also known as trimethylglycine, betaine can help lower homocysteine levels. A typical dosage is 1-3 grams per day, but it's best to consult your healthcare provider for personalized recommendations."
+        ],
+        "caveat": "",
+        "supplement_referral": [
+          {
+            "name": "methylfolate",
+            "dosage": "300 mcg",
+            "frequency": "daily",
+            "caveat": "Be cautious with high doses of folic acid, as it may not be well-utilized by individuals with the MTHFR A1298C gene variation. Consult with your healthcare provider.",
+            "affiliate_links": []
+          },
+          {
+            "name": "P5P",
+            "dosage": "100 mg",
+            "frequency": "daily",
+            "caveat": "",
+            "affiliate_links": []
+          },
+          {
+            "name": "Vitamin B12",
+            "dosage": "500 mcg",
+            "frequency": "daily",
+            "caveat": "",
+            "affiliate_links": []
+          },
+          {
+            "name": "Trimethylglycine",
+            "dosage": "1-3 grams",
+            "frequency": "daily",
+            "caveat": "It's best to consult your healthcare provider for personalized recommendations.",
+            "affiliate_links": []
+          }
+        ]
+      },
+      "02": {
+        "blurb": "Mutations in the AHCY gene can lead to reduced enzyme activity, which may result in elevated homocysteine levels and an increased risk of various health conditions. These conditions can have serious health implications, including developmental delay, intellectual disability, and neurological problems.\n\nIt is important to maintain a healthy diet and lifestyle, along with regular monitoring of homocysteine levels, to manage the potential risks associated with AHCY gene variations. Consulting a healthcare professional before making any significant changes to your diet or supplement routine is also recommended.",
+        "effects": [
+          "Possibly elevated homocysteine levels"
+        ],
+        "diet": [
+          "Consume a diet rich in whole foods: Focus on whole grains, lean proteins, fruits, vegetables, and healthy fats.",
+          "Include sources of folate: Foods high in folate include leafy greens, legumes, and fortified grains.",
+          "Incorporate foods rich in vitamin B12: Vitamin B12 can be found in animal products such as meat, fish, and dairy. Vegans and vegetarians may need to consider supplementation.",
+          "Include foods with vitamin B6: Foods high in vitamin B6 include fish, poultry, potatoes, and non-citrus fruits."
+        ],
+        "supplements": [
+          "Folate (5-MTHF or L-methylfolate): This is the active form of folate and may be more readily absorbed by individuals with the MTRR A66G variation.",
+          "Vitamin B12 (methylcobalamin): This form of vitamin B12 may be more effective for individuals with the MTRR A66G variation.",
+          "Vitamin B6 (pyridoxal-5-phosphate or P5P): This is the active form of vitamin B6 and may be more readily absorbed by individuals with the MTRR A66G variation.",
+          "Betaine: Also known as trimethylglycine, betaine can help lower homocysteine levels. A typical dosage is 1-3 grams per day, but it's best to consult your healthcare provider for personalized recommendations."
+        ],
+        "caveat": "",
+        "supplement_referral": [
+          {
+            "name": "methylfolate",
+            "dosage": "300 mcg",
+            "frequency": "daily",
+            "caveat": "Be cautious with high doses of folic acid, as it may not be well-utilized by individuals with the MTHFR A1298C gene variation. Consult with your healthcare provider.",
+            "affiliate_links": []
+          },
+          {
+            "name": "P5P",
+            "dosage": "100 mg",
+            "frequency": "daily",
+            "caveat": "",
+            "affiliate_links": []
+          },
+          {
+            "name": "Vitamin B12",
+            "dosage": "500 mcg",
+            "frequency": "daily",
+            "caveat": "",
+            "affiliate_links": []
+          },
+          {
+            "name": "Trimethylglycine",
+            "dosage": "1-3 grams",
+            "frequency": "daily",
+            "caveat": "It's best to consult your healthcare provider for personalized recommendations.",
+            "affiliate_links": []
+          }
+        ]
+      },
+      "19": {
+        "blurb": "Mutations in the AHCY gene can lead to reduced enzyme activity, which may result in elevated homocysteine levels and an increased risk of various health conditions. These conditions can have serious health implications, including developmental delay, intellectual disability, and neurological problems.\n\nIt is important to maintain a healthy diet and lifestyle, along with regular monitoring of homocysteine levels, to manage the potential risks associated with AHCY gene variations. Consulting a healthcare professional before making any significant changes to your diet or supplement routine is also recommended.",
+        "effects": [
+          "Possibly elevated homocysteine levels"
+        ],
+        "diet": [
+          "Consume a diet rich in whole foods: Focus on whole grains, lean proteins, fruits, vegetables, and healthy fats.",
+          "Include sources of folate: Foods high in folate include leafy greens, legumes, and fortified grains.",
+          "Incorporate foods rich in vitamin B12: Vitamin B12 can be found in animal products such as meat, fish, and dairy. Vegans and vegetarians may need to consider supplementation.",
+          "Include foods with vitamin B6: Foods high in vitamin B6 include fish, poultry, potatoes, and non-citrus fruits."
+        ],
+        "supplements": [
+          "Folate (5-MTHF or L-methylfolate): This is the active form of folate and may be more readily absorbed by individuals with the MTRR A66G variation.",
+          "Vitamin B12 (methylcobalamin): This form of vitamin B12 may be more effective for individuals with the MTRR A66G variation.",
+          "Vitamin B6 (pyridoxal-5-phosphate or P5P): This is the active form of vitamin B6 and may be more readily absorbed by individuals with the MTRR A66G variation.",
+          "Betaine: Also known as trimethylglycine, betaine can help lower homocysteine levels. A typical dosage is 1-3 grams per day, but it's best to consult your healthcare provider for personalized recommendations."
+        ],
+        "caveat": "",
+        "supplement_referral": [
+          {
+            "name": "methylfolate",
+            "dosage": "300 mcg",
+            "frequency": "daily",
+            "caveat": "Be cautious with high doses of folic acid, as it may not be well-utilized by individuals with the MTHFR A1298C gene variation. Consult with your healthcare provider.",
+            "affiliate_links": []
+          },
+          {
+            "name": "P5P",
+            "dosage": "100 mg",
+            "frequency": "daily",
+            "caveat": "",
+            "affiliate_links": []
+          },
+          {
+            "name": "Vitamin B12",
+            "dosage": "500 mcg",
+            "frequency": "daily",
+            "caveat": "",
+            "affiliate_links": []
+          },
+          {
+            "name": "Trimethylglycine",
+            "dosage": "1-3 grams",
+            "frequency": "daily",
+            "caveat": "It's best to consult your healthcare provider for personalized recommendations.",
+            "affiliate_links": []
+          }
+        ]
+      }
+    }
+  },
+  "CBS": {
+    "blurb": "The CBS gene, or cystathionine beta-synthase gene, plays a crucial role in the metabolism of sulfur-containing amino acids. Mutations in this gene can lead to conditions such as homocystinuria and may increase the risk of cardiovascular disease. Maintaining a balanced diet and monitoring homocysteine levels can help manage the potential risks associated with CBS gene variations.",
+    "Variations": {
+      "C699T": {
+        "blurb": "Research on the CBS C699T variation has shown mixed results regarding its impact on health. Some studies suggest that the variation may have a protective effect against certain conditions, such as hypercholesterolemia in superficial and deep vein thromboses. However, other studies have not found a significant association between the variation and health outcomes.\n\nIn the context of the CBS gene and its role in homocysteine metabolism, the CBS C699T variation may influence the efficiency of the enzyme and, consequently, the levels of homocysteine in the body. Elevated homocysteine levels have been linked to an increased risk of cardiovascular disease and other health issues.\n\nIn conclusion, the function and significance of the CBS C699T variation are still not well-established, and further research is needed to better understand its impact on health.",
+        "effects": [
+          "Possibly elevated homocysteine levels"
+        ],
+        "diet": [
+          "Consume a diet rich in whole foods: Focus on whole grains, lean proteins, fruits, vegetables, and healthy fats.",
+          "Include sources of folate: Foods high in folate include leafy greens, legumes, and fortified grains.",
+          "Incorporate foods rich in vitamin B12: Vitamin B12 can be found in animal products such as meat, fish, and dairy. Vegans and vegetarians may need to consider supplementation.",
+          "Include foods with vitamin B6: Foods high in vitamin B6 include fish, poultry, potatoes, and non-citrus fruits."
+        ],
+        "supplements": [
+          "Folate (5-MTHF or L-methylfolate): This is the active form of folate and may be more readily absorbed by individuals with the MTRR A66G variation.",
+          "Vitamin B12 (methylcobalamin): This form of vitamin B12 may be more effective for individuals with the MTRR A66G variation.",
+          "Vitamin B6 (pyridoxal-5-phosphate or P5P): This is the active form of vitamin B6 and may be more readily absorbed by individuals with the MTRR A66G variation.",
+          "Betaine: Also known as trimethylglycine, betaine can help lower homocysteine levels. A typical dosage is 1-3 grams per day, but it's best to consult your healthcare provider for personalized recommendations."
+        ],
+        "caveat": "",
+        "supplement_referral": [
+          {
+            "name": "methylfolate",
+            "dosage": "300 mcg",
+            "frequency": "daily",
+            "caveat": "Be cautious with high doses of folic acid, as it may not be well-utilized by individuals with the MTHFR A1298C gene variation. Consult with your healthcare provider.",
+            "affiliate_links": []
+          },
+          {
+            "name": "P5P",
+            "dosage": "100 mg",
+            "frequency": "daily",
+            "caveat": "",
+            "affiliate_links": []
+          },
+          {
+            "name": "Vitamin B12",
+            "dosage": "500 mcg",
+            "frequency": "daily",
+            "caveat": "",
+            "affiliate_links": []
+          },
+          {
+            "name": "Trimethylglycine",
+            "dosage": "1-3 grams",
+            "frequency": "daily",
+            "caveat": "It's best to consult your healthcare provider for personalized recommendations.",
+            "affiliate_links": []
+          }
+        ]
+      },
+      "A360A": {
+        "blurb": "The CBS A360A variation is a genetic change in the CBS gene, which encodes the enzyme cystathionine beta-synthase (CBS). This enzyme plays a crucial role in the transsulfuration pathway, converting homocysteine into cystathionine, and ultimately producing glutathione, the body's main antioxidant.\n\nThe A360A variation, also known as rs1801181, is a synonymous variant, meaning it does not change the amino acid sequence of the protein. However, it may still have an impact on gene expression or protein function.\n\nIn the case of the CBS A360A variation, research suggests that it may affect the efficiency of the CBS enzyme, leading to potential consequences on homocysteine metabolism and overall health. For example, some studies have found an association between this variation and an increased risk of cardiovascular disease, while others have not observed any significant relationship.",
+        "effects": [
+          "Possibly elevated homocysteine levels"
+        ],
+        "diet": [
+          "Consume a diet rich in whole foods: Focus on whole grains, lean proteins, fruits, vegetables, and healthy fats.",
+          "Include sources of folate: Foods high in folate include leafy greens, legumes, and fortified grains.",
+          "Incorporate foods rich in vitamin B12: Vitamin B12 can be found in animal products such as meat, fish, and dairy. Vegans and vegetarians may need to consider supplementation.",
+          "Include foods with vitamin B6: Foods high in vitamin B6 include fish, poultry, potatoes, and non-citrus fruits."
+        ],
+        "supplements": [
+          "Folate (5-MTHF or L-methylfolate): This is the active form of folate and may be more readily absorbed by individuals with the MTRR A66G variation.",
+          "Vitamin B12 (methylcobalamin): This form of vitamin B12 may be more effective for individuals with the MTRR A66G variation.",
+          "Vitamin B6 (pyridoxal-5-phosphate or P5P): This is the active form of vitamin B6 and may be more readily absorbed by individuals with the MTRR A66G variation.",
+          "Betaine: Also known as trimethylglycine, betaine can help lower homocysteine levels. A typical dosage is 1-3 grams per day, but it's best to consult your healthcare provider for personalized recommendations."
+        ],
+        "caveat": "",
+        "supplement_referral": [
+          {
+            "name": "methylfolate",
+            "dosage": "300 mcg",
+            "frequency": "daily",
+            "caveat": "Be cautious with high doses of folic acid, as it may not be well-utilized by individuals with the MTHFR A1298C gene variation. Consult with your healthcare provider.",
+            "affiliate_links": []
+          },
+          {
+            "name": "P5P",
+            "dosage": "100 mg",
+            "frequency": "daily",
+            "caveat": "",
+            "affiliate_links": []
+          },
+          {
+            "name": "Vitamin B12",
+            "dosage": "500 mcg",
+            "frequency": "daily",
+            "caveat": "",
+            "affiliate_links": []
+          },
+          {
+            "name": "Trimethylglycine",
+            "dosage": "1-3 grams",
+            "frequency": "daily",
+            "caveat": "It's best to consult your healthcare provider for personalized recommendations.",
+            "affiliate_links": []
+          }
+        ]
+      },
+      "N212N": {
+        "blurb": "The CBS N212N variation, also known as rs2298758, is a single nucleotide polymorphism (SNP) in the CBS gene, which encodes the enzyme cystathionine beta-synthase. This enzyme plays a crucial role in the transsulfuration pathway, converting homocysteine into cystathionine, and ultimately producing glutathione, the body's main antioxidant.\n\nThe N212N variation is a synonymous variant, meaning it does not change the amino acid sequence of the protein. However, it may still have an impact on gene expression or protein function. In the case of the CBS N212N variation, research suggests that it may affect the efficiency of the CBS enzyme, leading to potential consequences on homocysteine metabolism and overall health.\n\nIn conclusion, the function and significance of the CBS N212N variation are still not well-established, and further research is needed to better understand its impact on health.",
+        "effects": [
+          "Possibly elevated homocysteine levels"
+        ],
+        "diet": [
+          "Consume a diet rich in whole foods: Focus on whole grains, lean proteins, fruits, vegetables, and healthy fats.",
+          "Include sources of folate: Foods high in folate include leafy greens, legumes, and fortified grains.",
+          "Incorporate foods rich in vitamin B12: Vitamin B12 can be found in animal products such as meat, fish, and dairy. Vegans and vegetarians may need to consider supplementation.",
+          "Include foods with vitamin B6: Foods high in vitamin B6 include fish, poultry, potatoes, and non-citrus fruits."
+        ],
+        "supplements": [
+          "Folate (5-MTHF or L-methylfolate): This is the active form of folate and may be more readily absorbed by individuals with the MTRR A66G variation.",
+          "Vitamin B12 (methylcobalamin): This form of vitamin B12 may be more effective for individuals with the MTRR A66G variation.",
+          "Vitamin B6 (pyridoxal-5-phosphate or P5P): This is the active form of vitamin B6 and may be more readily absorbed by individuals with the MTRR A66G variation.",
+          "Betaine: Also known as trimethylglycine, betaine can help lower homocysteine levels. A typical dosage is 1-3 grams per day, but it's best to consult your healthcare provider for personalized recommendations."
+        ],
+        "caveat": "",
+        "supplement_referral": [
+          {
+            "name": "methylfolate",
+            "dosage": "300 mcg",
+            "frequency": "daily",
+            "caveat": "Be cautious with high doses of folic acid, as it may not be well-utilized by individuals with the MTHFR A1298C gene variation. Consult with your healthcare provider.",
+            "affiliate_links": []
+          },
+          {
+            "name": "P5P",
+            "dosage": "100 mg",
+            "frequency": "daily",
+            "caveat": "",
+            "affiliate_links": []
+          },
+          {
+            "name": "Vitamin B12",
+            "dosage": "500 mcg",
+            "frequency": "daily",
+            "caveat": "",
+            "affiliate_links": []
+          },
+          {
+            "name": "Trimethylglycine",
+            "dosage": "1-3 grams",
+            "frequency": "daily",
+            "caveat": "It's best to consult your healthcare provider for personalized recommendations.",
+            "affiliate_links": []
+          }
+        ]
+      }
+    }
+  },
+  "SHMT1": {
+    "blurb": "The SHMT1 C1420T variation refers to a single nucleotide polymorphism (SNP) in the gene coding for the enzyme serine hydroxymethyltransferase 1 (SHMT1). This enzyme plays a crucial role in the folate metabolic pathway, which is essential for DNA synthesis, repair, and methylation.",
+    "Variations": {
+      "C1420T": {
+        "blurb": "The C1420T variation involves a change from cytosine (C) to thymine (T) at position 1420 in the gene sequence. This variation may affect the function of the SHMT1 enzyme and, consequently, the folate metabolic pathway. Research has shown that this polymorphism is associated with an increased risk of certain health conditions, such as non-Hodgkin lymphoma and breast cancer.\n\nHowever, the exact function and significance of the SHMT1 C1420T variation are still not fully understood. Further research is needed to determine its impact on health and disease. In the meantime, maintaining a balanced diet and monitoring homocysteine levels can help manage the potential risks associated with this and other gene variations.",
+        "effects": [
+          "Possibly elevated homocysteine levels"
+        ],
+        "diet": [
+                "Increase your intake of folate-rich foods: Folate is essential for DNA synthesis and methylation, which may be affected by the SHMT1 C1420T variation. Include dark leafy greens, legumes, whole grains, and fortified cereals in your diet.",
+                "Consume foods high in vitamin B12: Vitamin B12 is crucial for the proper functioning of the SHMT1 enzyme. Include animal products such as meat, fish, poultry, and dairy in your diet. If you follow a vegetarian or vegan diet, consider supplementation.",
+                "Opt for a balanced diet: Include a variety of fruits, vegetables, whole grains, lean proteins, and healthy fats to ensure you're getting all the essential nutrients your body needs."
+        ],
+        "supplements": [
+          "Folate (5-MTHF or L-methylfolate): This is the active form of folate and may be more readily absorbed by individuals with the MTRR A66G variation.",
+          "Vitamin B12 (methylcobalamin): This form of vitamin B12 may be more effective for individuals with the MTRR A66G variation.",
+          "Vitamin B6 (pyridoxal-5-phosphate or P5P): This is the active form of vitamin B6 and may be more readily absorbed by individuals with the MTRR A66G variation.",
+          "Betaine: Also known as trimethylglycine, betaine can help lower homocysteine levels. A typical dosage is 1-3 grams per day, but it's best to consult your healthcare provider for personalized recommendations."
+        ],
+        "caveat": "",
+        "supplement_referral": [
+          {
+            "name": "methylfolate",
+            "dosage": "300 mcg",
+            "frequency": "daily",
+            "caveat": "Be cautious with high doses of folic acid, as it may not be well-utilized by individuals with the MTHFR A1298C gene variation. Consult with your healthcare provider.",
+            "affiliate_links": []
+          },
+          {
+            "name": "P5P",
+            "dosage": "100 mg",
+            "frequency": "daily",
+            "caveat": "",
+            "affiliate_links": []
+          },
+          {
+            "name": "Vitamin B12",
+            "dosage": "500 mcg",
+            "frequency": "daily",
+            "caveat": "",
+            "affiliate_links": []
+          },
+          {
+            "name": "Trimethylglycine",
+            "dosage": "1-3 grams",
+            "frequency": "daily",
+            "caveat": "It's best to consult your healthcare provider for personalized recommendations.",
+            "affiliate_links": []
+          }
+        ]
+      }
+    }
+  }
+}

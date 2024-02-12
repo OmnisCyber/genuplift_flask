@@ -1,0 +1,115 @@
+{% extends "layouts/base.html" %}
+
+{% block title %} Your Report {% endblock %}
+
+{% block stylesheets %}
+<style>
+    /* Enhanced styles for the gene data display */
+    .gene-table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-bottom: 0; /* Remove bottom margin */
+        border-radius: 0; /* No border radius */
+        overflow: hidden;
+        box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1); /* Softer shadow for subtlety */
+        background-color: #F5F5F5; /* Light gray background color */
+    }
+    .gene-table th, .gene-table td {
+        padding: 15px; /* Increased padding for better spacing */
+        text-align: left;
+        border-bottom: 1px solid #ddd;
+    }
+    .gene-table th {
+        background-color: #006400; /* Darker green color for row headers */
+        color: #fff;
+    }
+    .gene-table tr:nth-child(even) {
+        background-color: #FAFAFA; /* Slightly lighter gray for even rows */
+    }
+    .gene-name {
+        background-color: #F5F5DC; /* Beige background for gene name rows */
+        font-size: 1.5rem; /* Larger font size for gene names */
+        padding: 20px; /* Increased padding for better spacing */
+    }
+    .gene-name h2 {
+        color: #006400; /* Dark green gene name text */
+        margin: 0; /* Remove default margin for cleaner appearance */
+    }
+</style>
+{% endblock stylesheets %}
+
+{% block content %}
+<main>
+    {% include 'includes/preloader.html' %}
+    <!-- Hero -->
+    <section class="section section-header pb-11 bg-primary text-white">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-12 col-xl-8 text-center">
+                    <h1 class="display-2 mb-3">Your Report</h1>
+                    <p class="lead">We've created a custom methylation report just for you!</p>        
+                </div>
+            </div>
+        </div>
+    </section>
+    <div id="gene-container"></div>
+</main>
+{% include 'includes/footer.html' %}
+{% endblock content %}
+
+{% block javascripts %}
+<script>
+    // Example: Fetching and displaying gene data
+    fetch('/report-data')
+    .then(response => response.json())
+    .then(data => {
+        const container = document.getElementById('gene-container');
+        Object.entries(data).forEach(([geneName, geneInfo]) => {
+            // Create table for gene data
+            const table = document.createElement('table');
+            table.className = 'gene-table';
+            
+            // Gene name row
+            const geneNameRow = table.insertRow();
+            geneNameRow.className = 'gene-name'; /* Apply gene name styling */
+            const geneNameCell = geneNameRow.insertCell();
+            geneNameCell.colSpan = 2;
+            geneNameCell.innerHTML = `<h2>${geneName}</h2>`;
+            
+            // Blurb row
+            const blurbRow = table.insertRow();
+            blurbRow.insertCell().innerHTML = '<strong>Blurb:</strong>';
+            blurbRow.insertCell().innerHTML = geneInfo.blurb;
+            
+            // Variant row
+            const variantRow = table.insertRow();
+            variantRow.insertCell().innerHTML = '<strong>Variant:</strong>';
+            variantRow.insertCell().innerHTML = geneInfo.variant.blurb;
+            
+            // Effects row
+            const effectsRow = table.insertRow();
+            effectsRow.insertCell().innerHTML = '<strong>Effects:</strong>';
+            effectsRow.insertCell().innerHTML = geneInfo.variant.effects.join(', ');
+            
+            // Diet row
+            const dietRow = table.insertRow();
+            dietRow.insertCell().innerHTML = '<strong>Diet:</strong>';
+            dietRow.insertCell().innerHTML = geneInfo.variant.diet.join(', ');
+            
+            // Supplements row
+            const supplementsRow = table.insertRow();
+            supplementsRow.insertCell().innerHTML = '<strong>Supplements:</strong>';
+            supplementsRow.insertCell().innerHTML = geneInfo.variant.supplements.join(', ');
+            
+            // Caveat row
+            const caveatRow = table.insertRow();
+            caveatRow.insertCell().innerHTML = '<strong>Caveat:</strong>';
+            caveatRow.insertCell().innerHTML = geneInfo.variant.caveat;
+            
+            // Append table to container
+            container.appendChild(table);
+        });
+    })
+    .catch(error => console.error('Error:', error));
+</script>
+{% endblock javascripts %}
