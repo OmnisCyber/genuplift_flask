@@ -12,5 +12,8 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 COPY . .
 
+WORKDIR /app
+COPY . /app
+
 # gunicorn
 CMD ["gunicorn", "--config", "gunicorn-cfg.py", "run:app"]
