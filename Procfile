@@ -1,1 +1,0 @@
-web: gunicorn --config gunicorn-cfg.py wsgi:app
