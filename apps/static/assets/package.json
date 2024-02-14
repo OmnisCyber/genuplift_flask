@@ -1,9 +1,9 @@
 {
-    "name": "@themesberg/pixel-lite-bootstrap-ui-kit",
-    "version": "4.0.0",
-    "description": "Open-source Bootstrap 5 UI Kit",
+    "name": "GenUplift",
+    "version": "1.0.0",
+    "description": "Biohack Yourself",
     "main": "gulpfile.js",
-    "author": "Themesberg",
+    "author": "GenUplift",
     "keywords": [
         "bootstrap",
         "bootstrap 5",
@@ -19,7 +19,7 @@
         "gulp",
         "web"
     ],
-    "homepage": "https://themesberg.com/product/ui-kit/pixel-free-bootstrap-5-ui-kit",
+    "homepage": "https://genuplift-5e894d6dfcd9.herokuapp.com",
     "repository": {
         "type": "git",
         "url": "https://github.com/themesberg/pixel-bootstrap-ui-kit"
