@@ -19,6 +19,7 @@ from jinja2 import TemplateNotFound
 app = Flask(__name__)
 
 @blueprint.route('/about')
+@login_required
 def index():
     return render_template('home/about.html', segment='about')
 
