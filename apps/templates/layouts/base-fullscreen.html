@@ -53,7 +53,9 @@
 </head>
 <body>
 
-    {% include 'includes/navigation.html' %}
+    {% block navigation %}
+        {% include 'includes/navigation.html' %}
+    {% endblock %}
 
     {% block content %}{% endblock content %}
 
