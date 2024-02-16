@@ -1,78 +1,44 @@
 {% extends "layouts/base.html" %}
 
-{% block title %} Upload Your Raw Data {% endblock %}
-
-{% block stylesheets %}
-<!-- Add CSS for styling -->
-<style>
-  body {
-    background-color: #3f51b5;
-    color: #fff;
-    font-family: Arial, sans-serif;
-  }
-
-  main {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-  }
-
-  .upload-form {
-    background-color: #4caf50;
-    border-radius: 8px;
-    padding: 20px;
-    text-align: center;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
-  }
-
-  .upload-input {
-    display: none;
-  }
-
-  label {
-    display: block;
-    background-color: #2196f3;
-    color: #fff;
-    padding: 10px;
-    border-radius: 5px;
-    cursor: pointer;
-    transition: background-color 0.3s;
-  }
-
-  label:hover {
-    background-color: #1976d2;
-  }
-
-  button[type="submit"] {
-    margin-top: 10px;
-    background-color: #2196f3;
-    color: #fff;
-    padding: 10px 20px;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-    transition: background-color 0.3s;
-  }
-
-  button[type="submit"]:hover {
-    background-color: #1976d2;
-  }
-</style>
-{% endblock stylesheets %}
+{% block navigation %}
+{% endblock %}
 
 {% block content %}
-<main>
-  <div class="upload-form">
-    <h1>Upload Your File</h1>
-    <form action="/" method="POST" enctype="multipart/form-data">
-      <input type="file" name="file" required />
-      <button type="submit">Upload File</button>
-    </form>
-    
-  </div>
-</main>
-{% endblock content %}
-{% block javascripts %}
-<!-- No JavaScript required -->
-{% endblock javascripts %}
+<style>
+  #navbar-main .nav-link {
+      color: #242e4c; /* Your specific blue color */
+  }
+</style>
+<section class="section section-lg">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-12 col-lg-8">
+                <div class="card border-0 p-2 p-md-3 p-lg-5">
+                    <div class="card-header bg-white border-0 text-center">
+                        <h2>Upload File</h2>
+                        <p>Select a file to upload.</p>
+                    </div>
+                    <div class="card-body pt-0">
+                        <form action="/upload" method="post" enctype="multipart/form-data">
+                            <div class="mb-4">
+                                <label for="file">Choose File</label>
+                                <div class="input-group">
+                                    <span class="input-group-text" id="file-addon"><span class="fas fa-upload"></span></span>
+                                    <input type="file" class="form-control" id="file" name="file" required>
+                                </div>
+                            </div>
+                            <div class="d-grid">
+                                <button type="submit" class="btn btn-secondary">Upload</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+{% endblock %}
+
+{% block stylesheets %}
+
+{% endblock %}
