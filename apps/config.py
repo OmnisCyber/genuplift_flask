@@ -1,9 +1,6 @@
-# -*- encoding: utf-8 -*-
-"""
-Copyright (c) 2019 - present AppSeed.us
-"""
-
 import os, random, string
+from flask_mail import Mail, Message
+
 
 class Config(object):
 
@@ -16,6 +13,14 @@ class Config(object):
     SECRET_KEY  = os.getenv('SECRET_KEY', None)
     if not SECRET_KEY:
         SECRET_KEY = ''.join(random.choice( string.ascii_lowercase  ) for i in range( 32 ))     
+
+    MAIL_SERVER = 'smtp.sendgrid.net'
+    MAIL_PORT = 587
+    MAIL_USE_TLS = True
+    MAIL_USERNAME = 'apikey'
+    MAIL_PASSWORD = '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'
+    #MAIL_DEFAULT_SENDER = 'genuplift@gmail.com'
+    TWILIO_CODE = 'FHVAQ1JG2Z9KZ6MEVA7VVPR3'
 
     SQLALCHEMY_TRACK_MODIFICATIONS = False
 

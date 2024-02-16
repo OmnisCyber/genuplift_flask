@@ -13,6 +13,7 @@ flask-restx==0.5.1
 python-dotenv==0.19.2
 Flask-Minify==0.37
 PyPDF2
+flask_mail
 
 
 # flask_mysqldb

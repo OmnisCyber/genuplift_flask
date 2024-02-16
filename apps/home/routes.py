@@ -15,6 +15,8 @@ from apps.home import blueprint
 from flask import render_template, request
 from flask_login import login_required
 from jinja2 import TemplateNotFound
+from flask import Flask, request, redirect, flash
+from flask_mail import Mail, Message
 
 app = Flask(__name__)
 
@@ -302,6 +304,21 @@ def report_data():
     with open(json_path) as json_file:
         data = json.load(json_file)
     return jsonify(data)
+
+mail = Mail(app)
+
+@blueprint.route('/send_message', methods=['POST'])
+def send_message():
+    name = request.form['name']
+    email = request.form['email']
+    message = request.form['message']
+    
+    msg = Message("Message from Your Website", sender='genuplift@gmail.com', recipients=['your-recipient@example.com'])
+    msg.body = f"Name: {name}\nEmail: {email}\nMessage: {message}"
+    mail.send(msg)
+    
+    flash('Message sent successfully!', 'success')
+    return redirect('/')
 
 
 if __name__ == '__main__':
