@@ -4,6 +4,15 @@
 {% endblock %}
 
 {% block content %}
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+      const getStartedButton = document.querySelector('a.btn-tertiary[href="/upload.html"]');
+      if (getStartedButton) {
+          getStartedButton.style.display = 'none';
+      }
+  });
+</script>
+  
 <style>
   #navbar-main .nav-link {
       color: #242e4c; /* Your specific blue color */
