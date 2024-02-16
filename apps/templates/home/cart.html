@@ -1,0 +1,79 @@
+{% extends "layouts/base.html" %}
+
+{% block title %}Shopping Cart{% endblock %}
+
+<!-- Specific Page CSS goes HERE -->
+{% block stylesheets %}
+<!-- Add any specific CSS for the cart page here -->
+{% endblock stylesheets %}
+
+{% block content %}
+<main>
+    <!-- Hero -->
+    <section class="section-header bg-primary text-white">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-12 text-center">
+                    <h1 class="display-4 mb-3">Your Shopping Cart</h1>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End of Hero section -->
+
+    <!-- Cart Items Section -->
+    <section class="section bg-gray-200">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-12 col-lg-8">
+                    <!-- Item 1 -->
+                    <div class="card border-light mb-3">
+                        <div class="card-body">
+                            <div class="row align-items-center">
+                                <div class="col-md-8">
+                                    <h5 class="mb-1">Methylated B12 Complex - Thorne</h5>
+                                    <p class="mb-2">Price: $45</p>
+                                </div>
+                                <div class="col-md-4 text-md-right">
+                                    <button class="btn btn-danger">Remove</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Item 2 -->
+                    <div class="card border-light mb-3">
+                        <div class="card-body">
+                            <div class="row align-items-center">
+                                <div class="col-md-8">
+                                    <h5 class="mb-1">Vitamin D 180 Count - Nutricost</h5>
+                                    <p class="mb-2">Price: $35</p>
+                                </div>
+                                <div class="col-md-4 text-md-right">
+                                    <button class="btn btn-danger">Remove</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Checkout Button -->
+                    <div class="row justify-content-end">
+                        <div class="col-md-4">
+                            <h4 class="mb-3">Total: $80</h4>
+                            <a href="/checkout.html" class="btn btn-primary">Proceed to Checkout</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <div class="spacer">
+
+    </div>
+    <!-- End of Cart Items Section -->
+</main>
+
+{% endblock content %}
+
+<!-- Specific Page JS goes HERE -->
+{% block javascripts %}
+<!-- Add any specific JS for the cart page here -->
+{% endblock javascripts %}
