@@ -219,6 +219,7 @@ def find_genes_in_text(genes_in_text, gene_vitamin_dict, verbose=True):
 
 
 @blueprint.route('/', methods=['GET', 'POST'])
+@login_required
 def upload_file():
     if request.method == 'POST':
         file = request.files['file']
