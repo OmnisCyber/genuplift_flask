@@ -1,5 +1,4 @@
 import os, random, string
-import sendgrid
 from flask_mail import Mail, Message
 
 
