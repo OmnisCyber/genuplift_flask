@@ -18,11 +18,12 @@ from jinja2 import TemplateNotFound
 from flask import Flask, request, redirect, flash
 from flask_mail import Mail, Message
 from flask import Flask, render_template, request, session
+from sendgrid import SendGridAPIClient
+from sendgrid.helpers.mail import Mail
 
 app = Flask(__name__)
 
-@blueprint.route('/about')
-@login_required
+@blueprint.route('/')
 def index():
     return render_template('home/about.html', segment='about')
 
@@ -223,7 +224,6 @@ def find_genes_in_text(genes_in_text, gene_vitamin_dict, verbose=True):
 
 
 @blueprint.route('/upload', methods=['GET', 'POST'])
-@login_required
 def upload_file():
     if request.method == 'POST':
         file = request.files['file']
@@ -306,8 +306,8 @@ def report_data():
         data = json.load(json_file)
     return jsonify(data)
 
-mail = Mail(app)
 
+'''
 @blueprint.route('/send_message', methods=['POST'])
 def send_message():
     name = request.form['name']
@@ -319,7 +319,39 @@ def send_message():
     mail.send(msg)
     
     flash('Message sent successfully!', 'success')
+    try:
+        sg = SendGridAPIClient(os.environ.get('SENDGRID_API_KEY'))
+        response = sg.send(msg)
+        print(response.status_code)
+        print(response.body)
+        print(response.headers)
+    except Exception as e:
+        print(e.msg)
     return redirect('/')
+'''
+EMAIL_FOLDER = os.path.join(os.getcwd(), 'emails')
+if not os.path.exists(EMAIL_FOLDER):
+    os.makedirs(EMAIL_FOLDER)
+
+def save_email(email_data):
+    with open(os.path.join(EMAIL_FOLDER, f'{email_data["name"]}.txt'), 'w') as file:
+        file.write(f'Name: {email_data["name"]}\n')
+        file.write(f'Email: {email_data["email"]}\n')
+        file.write(f'Message: {email_data["message"]}\n')
+
+@blueprint.route('/send_message', methods=['GET', 'POST'])
+def contact():
+    if request.method == 'POST':
+        name = request.form['name']
+        email = request.form['email']
+        message = request.form['message']
+        email_data = {
+            'name': name,
+            'email': email,
+            'message': message
+        }
+        save_email(email_data)
+        return render_template('home/about.html')
 
 
 if __name__ == '__main__':

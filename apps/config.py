@@ -1,4 +1,5 @@
 import os, random, string
+import sendgrid
 from flask_mail import Mail, Message
 
 
@@ -18,7 +19,7 @@ class Config(object):
     MAIL_PORT = 587
     MAIL_USE_TLS = True
     MAIL_USERNAME = 'apikey'
-    MAIL_PASSWORD = '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'
+    MAIL_PASSWORD = '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'
     #MAIL_DEFAULT_SENDER = 'genuplift@gmail.com'
     TWILIO_CODE = 'FHVAQ1JG2Z9KZ6MEVA7VVPR3'
 
