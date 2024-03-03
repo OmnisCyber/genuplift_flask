@@ -18,8 +18,6 @@ from jinja2 import TemplateNotFound
 from flask import Flask, request, redirect, flash
 from flask_mail import Mail, Message
 from flask import Flask, render_template, request, session
-from sendgrid import SendGridAPIClient
-from sendgrid.helpers.mail import Mail
 
 app = Flask(__name__)
 
