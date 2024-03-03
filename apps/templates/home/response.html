@@ -34,6 +34,12 @@
         color: #006400; /* Dark green gene name text */
         margin: 0; /* Remove default margin for cleaner appearance */
     }
+    .gene-table strong {
+        color: #242e4c !important;
+    }   
+    .transparent-red-background {
+        background-color: rgba(255, 0, 0, 0.5); /* Transparent red background */
+    }
 </style>
 {% endblock stylesheets %}
 
@@ -75,35 +81,52 @@
             geneNameCell.colSpan = 2;
             geneNameCell.innerHTML = `<h2>${geneName}</h2>`;
             
+            
             // Blurb row
             const blurbRow = table.insertRow();
-            blurbRow.insertCell().innerHTML = '<strong>Blurb:</strong>';
-            blurbRow.insertCell().innerHTML = geneInfo.blurb;
+            blurbRow.insertCell().innerHTML = '<strong>Description: </strong>' + geneInfo.blurb;
             
+            const specifiedVariants = {
+                "COMT": ["V158M", "H62H", "P199P"],
+                "VDR": ["BDM", "TAQ"],
+                "MAO-A": ["R297R"],
+                "ACAT1": ["02"],
+                "MTHFR": ["C677T", "03 P39P", "A1298C"],
+                "MTR": ["A2756G"],
+                "MTRR": ["A66G", "H595Y", "K350A", "R415T", "A664A"],
+                "BHMT": ["02", "04", "08"],
+                "CBS": ["C699T", "A360A", "N212N"],
+                "SHMT1": ["C1420T"],
+                "AHCY": ["01", "02", "19"]
+            };
             // Variant row
             const variantRow = table.insertRow();
-            variantRow.insertCell().innerHTML = '<strong>Variant:</strong>';
-            variantRow.insertCell().innerHTML = geneInfo.variant.blurb;
+            if(geneName == "MAO-A" || geneName == "VDR" && geneInfo.variant.blurb.includes("R297R") || geneInfo.variant.blurb.includes("BDM") || geneInfo.variant.blurb.includes("TAQ")){
+                variantRow.className = "transparent-red-background";
+                variantRow.insertCell().innerHTML = '<strong>Variant: </strong>' + geneInfo.variant.blurb;
+            }
+            else{
+                variantRow.insertCell().innerHTML = '<strong>Variant: </strong>' + geneInfo.variant.blurb;
+            }
+            
             
             // Effects row
             const effectsRow = table.insertRow();
-            effectsRow.insertCell().innerHTML = '<strong>Effects:</strong>';
-            effectsRow.insertCell().innerHTML = geneInfo.variant.effects.join(', ');
+            effectsRow.insertCell().innerHTML = '<strong>Effects: </strong>' + geneInfo.variant.effects.join(', ');
             
             // Diet row
             const dietRow = table.insertRow();
-            dietRow.insertCell().innerHTML = '<strong>Diet:</strong>';
-            dietRow.insertCell().innerHTML = geneInfo.variant.diet.join(', ');
+            dietRow.insertCell().innerHTML = '<strong>Diet: </strong>' + geneInfo.variant.diet.join(', ');
             
             // Supplements row
             const supplementsRow = table.insertRow();
-            supplementsRow.insertCell().innerHTML = '<strong>Supplements:</strong>';
-            supplementsRow.insertCell().innerHTML = geneInfo.variant.supplements.join(', ');
+            supplementsRow.insertCell().innerHTML = '<strong>Supplements: </strong>' + geneInfo.variant.supplements.join(', ');
             
             // Caveat row
-            const caveatRow = table.insertRow();
-            caveatRow.insertCell().innerHTML = '<strong>Caveat:</strong>';
-            caveatRow.insertCell().innerHTML = geneInfo.variant.caveat;
+            if(geneInfo.variant.caveat){
+                const caveatRow = table.insertRow();
+                caveatRow.insertCell().innerHTML = '<strong>Caveat: </strong>' + geneInfo.variant.caveat;                  
+            }
             
             // Append table to container
             container.appendChild(table);
